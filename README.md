@@ -1,2 +1,2 @@
 # pythontesting
-This is repo for learning & testing open data projects using Python.
+This is my repo for learning & testing open data projects using Python.
